@@ -7,7 +7,7 @@ Using Helm charts, you can install, update, and uninstall the controllers and th
 Table of contents:
 
 + [Introduction](#introduction)
-+ [What is Helm?](Readme files/README.md)
++ [What is Helm?](README Files/What is Helm.md)
 + [Part II: Installing helm](part-02/README.md)
 + [Part III: Deploy your first chart](part-03/README.md)
 + [Part IV: Creating your own chart](part-04/README.md)
